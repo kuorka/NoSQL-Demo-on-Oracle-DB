@@ -1,4 +1,4 @@
-API NoSQL para Banco de Dados Oracle utilizando interface REST.
+Demonstração da API NoSQL em REST pra manipular documentos JSON no Oracle database
 
 Pré-requisitos
 
