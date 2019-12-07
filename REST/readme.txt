@@ -1,6 +1,8 @@
-Demonstração da API NoSQL em REST pra manipular documentos JSON no Oracle database
+NoSQL REST API Demo for handling JSON documents in Oracle database
 
-Pré-requisitos
+Prerequisites
 
-Deve iniciar um serviço Oracle Rest Data Services para comunicação REST com o banco de dados
-Trocar localhost pelo IP no endpoint REST.
+You must start an Oracle Rest Data Services service for REST communication with the database.
+ORDS are automatically available with Oracle Autonomous Database Cloud.
+
+Exchange localhost for IP on REST endpoint.
