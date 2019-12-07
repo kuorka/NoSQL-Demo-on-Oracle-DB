@@ -1,6 +1,6 @@
 # nosqldemo
-Demonstração das APIs NoSQL para Banco de Dados Oracle
+NoSQL APIs Demo for Oracle Database
 
-Escolha uma linguagem entre Java, Node.js e Python, e também REST. 
+Choose a language from Java, Node.js and Python, as well as REST.
 
-Siga os requerimentos e procedimento de execução conforme explicado no readme.txt de cada linguagem.
+Follow the requirements and execution procedure as explained in the readme.txt of each language.
