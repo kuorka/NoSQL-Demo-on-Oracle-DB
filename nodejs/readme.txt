@@ -1,11 +1,11 @@
-Demonstração da API NoSQL em Node.js pra manipular documentos JSON no Oracle database
+NoSQL Node.js API Demo for Handling JSON Documents in Oracle Database
 
-Pré-Requisitos:
+Prerequisites:
 
 Node 10.15
-Oracle Database 18c ou superior
-Alterar usuário, senha e service_name no arquivo nosqldemo.js
+Oracle Database 18c or higher
+Change username, password, and service_name in the nosqldemo.js file
 
-Execução:
+Execution:
 
 node nosqldemo.js
