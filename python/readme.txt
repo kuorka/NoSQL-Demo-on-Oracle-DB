@@ -1,11 +1,11 @@
-Demonstração da API NoSQL em Python pra manipular documentos JSON no Oracle database
+Python NoSQL API Demo for handling JSON documents in Oracle database
 
-Pré-Requisitos:
+Prerequisites:
 
 Python 3.7
-Oracle Database 18c ou superior
-Alterar usuário, senha e service_name no arquivo nosqldemo.py
+Oracle Database 18c or higher
+Change username, password, and service_name in the nosqldemo.py file
 
-Execução:
+Execution:
 
 python nosqldemo.py
