@@ -1,12 +1,11 @@
-Demonstração da API NoSQL em Java pra manipular documentos JSON no Oracle database
+Java NoSQL API Demo for Handling JSON Documents in Oracle Database
 
-Pré-Requisitos:
+Prerequisites:
 
 Java 8
-Oracle Database 18c ou superior
-Alterar usuário, senha e service_name no arquivo nosqldemo.java
+Oracle Database 18c or higher
+Change username, password, and service_name in the nosqldemo.java file
 
-Execução:
-
+Execution:
 javac NoSQLDemo.java
 java NoSQLDemo
